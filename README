@@ -3,4 +3,4 @@ This is the project done under oops in java course at coursera.org
 Project Description : 
 An interactive GUI using Processing (https://www.processing.org/) UnfoldingMaps (http://unfoldingmaps.org/).
 it displays a world map with live Earthquake data feed from (https://earthquake.usgs.gov/) and contains markers for earthquakes and major cities in the world.
-when clicked markers shows interesting information about earthquakes and cities whose marker is clicked.
+when clicked markers shows interesting feature about earthquakes and cities whose marker is clicked.
